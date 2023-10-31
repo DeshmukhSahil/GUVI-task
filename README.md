@@ -48,3 +48,8 @@ This web application facilitates user registration, login, and profile updates. 
 ## Project is not yet deployed
 
 This project is currently not deployed. Please follow the instructions above to set it up on your localhost for testing and development purposes.
+
+
+## Walkthrough video link:
+
+https://drive.google.com/file/d/1w8lRn64Tlfh3Tu_L8-P7MeGFhZg13qCo/view?usp=sharing
